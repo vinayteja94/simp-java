@@ -8,8 +8,8 @@
   <name>simple_java</name>
   <url>http://maven.apache.org</url>
 <scm>
-        <connection>scm:git:ssh://git@github.com:vinayteja94/sample.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:vinayteja94/sample.git</developerConnection>
+        <connection>scm:git:ssh://git@github.com:vinayteja94/simp-java.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:vinayteja94/simp-java.git</developerConnection>
     </scm>
 <distributionManagement>
     <repository>
